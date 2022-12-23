@@ -1,0 +1,39 @@
+body{
+    margin-top:60px;
+    margin-bottom:60px;
+  }
+  
+  h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Varela Round', sans-serif;
+    } 
+  
+  h3{
+    text-align: center;
+    font-size: 22px;
+  }
+  
+  .responsive{
+    max-width: 100%;
+    height: auto; 
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block;
+  }
+  p {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+   } 
+  ul {
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px; 
+    background-color:black;
+    color:white;
+   } 
